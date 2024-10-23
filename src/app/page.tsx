@@ -18,7 +18,7 @@ const globalStyles = `
 const portfolioData = {
   personalInformation: {
     name: "Kevin Haro",
-    location: "Salt Lake City, UT",
+    location: "Salt Lake City, Utah",
     email: "kevin.haro.r3@gmail.com",
     phone: "(385) 461-5172",
     linkedin: "https://linkedin.com/in/kevinharor",
