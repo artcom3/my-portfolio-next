@@ -285,14 +285,6 @@ export default function Home() {
               </div>
               <button type="submit" className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded transition-colors">Send Message</button>
             </form>
-            <div className="mt-8 flex items-center space-x-4">
-              <Mail className="w-6 h-6" />
-              <a href={`mailto:${portfolioData.personalInformation.email}`} className="hover:text-blue-400 transition-colors">{portfolioData.personalInformation.email}</a>
-            </div>
-            <div className="mt-4 flex items-center space-x-4">
-              <Phone className="w-6 h-6" />
-              <a href={`tel:${portfolioData.personalInformation.phone}`} className="hover:text-blue-400 transition-colors">{portfolioData.personalInformation.phone}</a>
-            </div>
           </div>
         </section>
       </main>
