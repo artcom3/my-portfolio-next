@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useEffect } from 'react'
-import { ArrowUpCircle, Linkedin, Mail, Phone, Menu, X, Globe } from 'lucide-react'
+import { ArrowUpCircle, Linkedin, Menu, X, Globe } from 'lucide-react'
 import Link from 'next/link'
 import Image from 'next/image';
 
